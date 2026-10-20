@@ -1,0 +1,8 @@
+name = "ojha-agent000"
+compatibility_date = "2026-10-01"
+pages_build_output_dir = "."
+# Optional D1 binding: create a D1 database and configure DB in Cloudflare Pages settings.
+# [[d1_databases]]
+# binding = "DB"
+# database_name = "ojha-agent-memory"
+# database_id = "REPLACE_WITH_YOUR_DATABASE_ID"

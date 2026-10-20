@@ -1,0 +1,10 @@
+{
+  "name": "Ojha Agent",
+  "short_name": "Ojha Agent",
+  "description": "Personal AI workspace by Shivam Ojha",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080b16",
+  "theme_color": "#090d1b",
+  "icons": []
+}
